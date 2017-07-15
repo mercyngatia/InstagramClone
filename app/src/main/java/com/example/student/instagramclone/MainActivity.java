@@ -10,6 +10,9 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+/**
+ * Main Activity
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static String BASE_URL ="http://api.androidhive.info";
